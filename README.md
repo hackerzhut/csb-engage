@@ -34,6 +34,8 @@ grunt serve
 To run jshint and/or tests
 
 ```
+grunt jshint
+
 grunt test
 
 ```
